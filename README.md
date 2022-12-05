@@ -2,4 +2,4 @@
 ## Preparation
 ```pip install -r requirements.txt```
 ## Start
-```python3 model.py```
+```python3 generator.py```

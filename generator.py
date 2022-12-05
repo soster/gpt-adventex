@@ -6,7 +6,6 @@
 # see https://huggingface.co/docs/transformers/model_doc/gpt_neo
 from transformers import pipeline
 import time
-https://huggingface.co/CompVis/stable-diffusion-v-1-5-original/resolve/main/sd-v1-5.ckpt
 start_time = time.time()
 
 # models gpt-neo-125M, gpt-neo-1.3B, gpt-neo-2.7B (8GB Vram not enough for 2.7B)
